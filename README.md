@@ -1,7 +1,7 @@
 # JWT-Flask-authentication
 ## Jason Web Tokens(JWT)
 ``` 
-JSON Web Tokens is a secure and compact way to transmit data between two parties with the help of JSON objects 
+  JSON Web Tokens is a secure and compact way to transmit data between two parties with the help of JSON objects 
   JSON web token consists of three parts
    Payload
    Header
@@ -31,5 +31,6 @@ Flask-SQLAlchemy
  python app.py
  ```
  ## Demo Link
- ``` https://drive.google.com/file/d/1p4SHm6w5ZhiwdOx9eb8xw5-87RA540EV/view?usp=sharing
+ ``` 
+ https://drive.google.com/file/d/1p4SHm6w5ZhiwdOx9eb8xw5-87RA540EV/view?usp=sharing
   ```
